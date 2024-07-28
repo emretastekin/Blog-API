@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using BlogAPI.Data;
 using BlogAPI.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace BlogAPI.Controllers
 {
@@ -15,10 +16,13 @@ namespace BlogAPI.Controllers
     public class AuthorsController : ControllerBase
     {
         private readonly ApplicationContext _context;
-
-        public AuthorsController(ApplicationContext context)
+        private readonly UserManager<ApplicationUser> _userManager;
+        private readonly SignInManager<ApplicationUser> _signInManager;
+        public AuthorsController(ApplicationContext context, UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager)
         {
             _context = context;
+            _userManager = userManager;
+            _signInManager = signInManager;
         }
 
         // GET: api/Authors
@@ -90,6 +94,13 @@ namespace BlogAPI.Controllers
           {
               return Problem("Entity set 'ApplicationContext.Authors'  is null.");
           }
+
+
+            _userManager.CreateAsync(author.ApplicationUser!, author.ApplicationUser!.Password).Wait();
+
+            author.Id = author.ApplicationUser.Id;
+            author.ApplicationUser = null;
+
             _context.Authors.Add(author);
             try
             {

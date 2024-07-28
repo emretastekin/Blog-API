@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -50,6 +50,19 @@ namespace BlogAPI.Controllers
             return comment;
         }
 
+        [HttpGet("ByPost/{postId}")]
+        public async Task<ActionResult<IEnumerable<Comment>>> GetCommentsByPost(int postId)
+        {
+            var comments = await _context.Comments.Where(c => c.PostId == postId).ToListAsync();
+
+            if(comments==null || comments.Count == 0)
+            {
+                return NotFound();
+            }
+
+            return comments;
+        }
+
         // PUT: api/Comments/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
@@ -81,6 +94,8 @@ namespace BlogAPI.Controllers
             return NoContent();
         }
 
+
+
         // POST: api/Comments
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
@@ -90,10 +105,20 @@ namespace BlogAPI.Controllers
           {
               return Problem("Entity set 'ApplicationContext.Comments'  is null.");
           }
-            _context.Comments.Add(comment);
-            await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetComment", new { id = comment.CommentId }, comment);
+          var post = await _context.Posts.FindAsync(comment.PostId);
+
+          if (post == null)
+          {
+              return NotFound(new { Message = "Post not found" });
+          }
+
+
+          _context.Comments.Add(comment);
+          await _context.SaveChangesAsync();
+
+          return CreatedAtAction("GetComment", new { id = comment.CommentId }, comment);
+        
         }
 
         // DELETE: api/Comments/5

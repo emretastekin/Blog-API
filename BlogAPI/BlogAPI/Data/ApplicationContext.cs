@@ -7,14 +7,12 @@ namespace BlogAPI.Data
 {
     public class ApplicationContext : IdentityDbContext<ApplicationUser>
     {
-    
 
 
-        public ApplicationContext(DbContextOptions<ApplicationContext> options)
-            : base(options)
+
+        public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options)
         {
         }
-
 
         public DbSet<Author>? Authors { get; set; }
 
@@ -29,7 +27,7 @@ namespace BlogAPI.Data
         {
             base.OnModelCreating(modelBuilder);
 
-
+            
             modelBuilder.Entity<Comment>()
                 .HasOne(c => c.Post)
                 .WithMany(p => p.Comments)
@@ -40,11 +38,10 @@ namespace BlogAPI.Data
                 .HasOne(p => p.Author)
                 .WithMany(a => a.Posts)
                 .HasForeignKey(p => p.AuthorId);
+           
 
 
-            
         }
 
     }
 }
-
