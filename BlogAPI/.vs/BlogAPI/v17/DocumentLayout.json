@@ -1,62 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\",
+  "WorkspaceRootPath": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\controllers\\authorizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\authorizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:1:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\controllers\\subcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:controllers\\subcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\migrations\\20240727150548_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\migrations\\20240727150548_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\controllers\\authorizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:controllers\\authorizationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\migrations\\20240730121844_test8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:migrations\\20240730121844_test8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|d:\\yedek\\softito backend e\u011Fitimi\\y\u00FCzy\u00FCze dersler\\softito\\blogapi\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{D7B11B61-43FB-4A61-9414-F8C4E0C87BA3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\migrations\\20240807193905_test10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:migrations\\20240807193905_test10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\migrations\\20240806102341_test9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:migrations\\20240806102341_test9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\models\\likedislike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:models\\likedislike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\migrations\\20240730114051_test7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:migrations\\20240730114051_test7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\migrations\\20240730103118_test6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:migrations\\20240730103118_test6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\migrations\\20240730070618_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:migrations\\20240730070618_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|d:\\yedek\\emre_ta\u015Ftekin\\projeler\\blogapi\\migrations\\20240728155208_test4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451F0380-E217-4C1F-B9E8-930D7F2B7498}|BlogAPI.csproj|solutionrelative:migrations\\20240728155208_test4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,184 +122,323 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "BlogAPI\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavoritesController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "Controllers\\FavoritesController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAwwJgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T14:56:37.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Models\\Author.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Models\\Author.cs",
-              "RelativeToolTip": "BlogAPI\\Models\\Author.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBUAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T14:55:02.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Post.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Models\\Post.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Models\\Post.cs",
-              "RelativeToolTip": "BlogAPI\\Models\\Post.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBQAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T14:55:20.826Z",
+              "WhenOpened": "2024-08-07T18:14:08.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Models\\Comment.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Models\\Comment.cs",
-              "RelativeToolTip": "BlogAPI\\Models\\Comment.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Controllers\\PostsController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAIwJIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T14:55:59.671Z",
+              "WhenOpened": "2024-08-07T18:51:21.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AuthorsController.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\AuthorsController.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "BlogAPI\\Controllers\\AuthorsController.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAowGUAAAAqAAAA",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAIwKcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:09:54.541Z",
+              "WhenOpened": "2024-08-07T18:31:03.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CommentsController.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Controllers\\CommentsController.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\CommentsController.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Controllers\\CommentsController.cs",
-              "RelativeToolTip": "BlogAPI\\Controllers\\CommentsController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwDQAAAAgAAAA",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:10:34.84Z",
+              "WhenOpened": "2024-08-07T19:37:32.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Program.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Program.cs",
-              "RelativeToolTip": "BlogAPI\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwFIAAAAsAAAA",
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAwwCABAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:03:45.85Z",
+              "WhenOpened": "2024-08-09T20:56:15.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "BlogAPI\\appsettings.json",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\appsettings.json",
-              "RelativeToolTip": "BlogAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-27T15:02:56.323Z",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:37:53.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthorizationsController.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Controllers\\AuthorizationsController.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\AuthorizationsController.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Controllers\\AuthorizationsController.cs",
-              "RelativeToolTip": "BlogAPI\\Controllers\\AuthorizationsController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAYwEQAAAArAAAA",
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:11:22.366Z",
+              "WhenOpened": "2024-08-07T18:28:56.931Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubCategoriesController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\SubCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubCategoriesController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\SubCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\SubCategoriesController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAowHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:57:55.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAswGYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:54:19.523Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "20240727150548_Test1.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Migrations\\20240727150548_Test1.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Migrations\\20240727150548_Test1.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Migrations\\20240727150548_Test1.cs",
-              "RelativeToolTip": "BlogAPI\\Migrations\\20240727150548_Test1.cs",
-              "ViewState": "AQIAAKAAAAAAAAAAAAAQwLIAAAAuAAAA",
+              "Title": "AuthorizationsController.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\AuthorizationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorizationsController.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Controllers\\AuthorizationsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorizationsController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:05:53.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T20:54:16.061Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Data\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Data\\ApplicationContext.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Data\\ApplicationContext.cs",
-              "RelativeToolTip": "BlogAPI\\Data\\ApplicationContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:02:18.317Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T18:20:44.567Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Controllers\\RolesController.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\RolesController.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Controllers\\RolesController.cs",
-              "RelativeToolTip": "BlogAPI\\Controllers\\RolesController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBwAAAAFAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAABwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:22:14.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T18:21:48.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationContext.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "Data\\ApplicationContext.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA0wDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:36:30.181Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "PostsController.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Controllers\\PostsController.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\PostsController.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Controllers\\PostsController.cs",
-              "RelativeToolTip": "BlogAPI\\Controllers\\PostsController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Title": "20240730121844_Test8.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240730121844_Test8.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240730121844_Test8.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240730121844_Test8.cs",
+              "RelativeToolTip": "Migrations\\20240730121844_Test8.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:11:00.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T18:19:42.94Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Program.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
-              "ToolTip": "D:\\Yedek\\SoftIto Backend E\u011Fitimi\\Y\u00FCzy\u00FCze Dersler\\SoftITO\\BlogAPI\\BlogAPI\\Program.cs",
-              "RelativeToolTip": "BlogAPI\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "20240807193905_Test10.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240807193905_Test10.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240807193905_Test10.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240807193905_Test10.cs",
+              "RelativeToolTip": "Migrations\\20240807193905_Test10.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T15:29:23.477Z"
+              "WhenOpened": "2024-08-07T19:39:28.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\SubCategory.cs",
+              "RelativeDocumentMoniker": "Models\\SubCategory.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\SubCategory.cs",
+              "RelativeToolTip": "Models\\SubCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:38:01.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LikeDislike.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\LikeDislike.cs",
+              "RelativeDocumentMoniker": "Models\\LikeDislike.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\LikeDislike.cs",
+              "RelativeToolTip": "Models\\LikeDislike.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:37:49.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "Models\\Favorite.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\Favorite.cs",
+              "RelativeToolTip": "Models\\Favorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:37:39.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:37:41.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:37:37.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240806102341_Test9.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240806102341_Test9.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240806102341_Test9.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240806102341_Test9.cs",
+              "RelativeToolTip": "Migrations\\20240806102341_Test9.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:45.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:37:24.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240730114051_Test7.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240730114051_Test7.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240730114051_Test7.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240730114051_Test7.cs",
+              "RelativeToolTip": "Migrations\\20240730114051_Test7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:40.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240730103118_Test6.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240730103118_Test6.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240730103118_Test6.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240730103118_Test6.cs",
+              "RelativeToolTip": "Migrations\\20240730103118_Test6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:39.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240728155208_Test4.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240728155208_Test4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240728155208_Test4.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240728155208_Test4.cs",
+              "RelativeToolTip": "Migrations\\20240728155208_Test4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:19:09.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240730070618_Test5.cs",
+              "DocumentMoniker": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240730070618_Test5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240730070618_Test5.cs",
+              "ToolTip": "D:\\Yedek\\Emre_Ta\u015Ftekin\\Projeler\\BlogAPI\\Migrations\\20240730070618_Test5.cs",
+              "RelativeToolTip": "Migrations\\20240730070618_Test5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:14:06.708Z"
             }
           ]
         }
